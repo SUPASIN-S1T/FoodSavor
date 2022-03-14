@@ -1,2 +1,2 @@
-# Nextly
+# Food Savor
 landing page responsive 
